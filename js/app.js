@@ -8,7 +8,7 @@ window.addEventListener('touchmove', function() {}, {passive: false});
 
 // As soon as the internet connection is restored, the browser automatically fires this event.
 window.ononline = () => {
-    // retrieve our saved requests or create an empty array if there are none
+    // retrieononlinee our saved requests or create an empty array if there are none
 //                  |turns string back to JS array   
     let queue = JSON.parse(localStorage.getItem('queue')) || [];
     

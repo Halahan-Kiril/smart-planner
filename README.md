@@ -12,4 +12,5 @@ A simple and convenient web application to organize tasks and boost productivity
 
 
 ## Important Note
-In order to correctly function, app need a DB connection. File dp.php manages connections to DB. using XAMPP is easier with current db.php code
+In order to correctly function, app needs a DB connection. File dp.php manages connections to DB. 
+using XAMPP is easier with current db.php code
